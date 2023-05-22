@@ -9,3 +9,4 @@ Pour mener à bien le projet vous allez devoir télécharger le dataset des vols
 La première étape va être de vérifier notre data puis à le pousser dans notre base de données. <br>
 nous allons couper notre CSV en plusieurs parties afin de pouvoir les traiter une à une. Ce processus nous permet de faire nos opérations sans trop faire souffrir la machine due à la taille de notre jeu de données.<br>
 
+Puis vient le moment où nous allons explorer nos données. voir quelles informations ressortir et pouvoir créer nos maps pour faire montrer visuellement les informations qui nous intersse.
